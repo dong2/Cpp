@@ -1,4 +1,4 @@
-# Cpp
+# Cpp2.0
 g++ -o template template.cpp
 
 # reference
